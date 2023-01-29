@@ -1,0 +1,23 @@
+body{
+    color: rgb(210, 177, 30);
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+
+input{
+    font-size: 20px;
+    border: solid 3px;
+    padding: 5px;
+    color: rgb(210, 177, 30);
+    background-color: black;
+    font-family: 'Courier New', Courier, monospace;
+    width: 400px;
+}
+
+
+
+#info{
+    font-weight: bold;
+}
+
