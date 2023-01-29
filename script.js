@@ -11,7 +11,7 @@ var myNumber  = document.getElementById('myGuess').value;
 if(myNumber == guessThisNumber){
     document.getElementById('info').innerHTML = "<br>Congratulations, You guessed right " +guessThisNumber+ " <br> It took you " + guessScore + " guesses";
     document.getElementById('history').innerHTML +='<br><b style="color:cyan">'+ myNumber + " Right Number!</b>";
-
+    
 }
 
 if(myNumber < guessThisNumber){
